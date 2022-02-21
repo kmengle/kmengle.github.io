@@ -12,7 +12,7 @@
 <img src="images/moran_map.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Accessibility to Grocery Stores in the City of Los Angeles, CA](/pdf/mengle_term_project_report.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
