@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Inverse Distance Weighted Map of Texas Mesonet Stations](/sample_page)
+<img src="images/idw_map_new.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cluster Analysis of Crime Density in Chicago, IL](/pdf/sample_presentation.pdf)
+<img src="images/moran_map.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
