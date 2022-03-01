@@ -16,7 +16,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Data to Use as a Network Analysis to Optimize Fleet for Ten Stores in Tallahassee][![Central Asia Cities](images/CentralAsiaCities.png)](https://arcg.is/1frmL0 (Links to an external site.))
+[Data to Use as a Network Analysis to Optimize Fleet for Ten Stores in Tallahassee][![Road, Junction, and Store Data](images/)](https://arcg.is/1frmL0 (Links to an external site.))
+
+---
 
 ### Category Name 2
 
