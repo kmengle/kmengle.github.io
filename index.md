@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[![Road, Junction, and Store Data](images/data.PNG)](https://arcg.is/1frmL0 (Links to an external site.))
+[![Road, Junction, and Store Data](images/data.PNG)](https://arcg.is/1y9PPC (Links to an external site.))
 
 ---
 
