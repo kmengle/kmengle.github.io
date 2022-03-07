@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[![Shortest Path Between Grocery Stores](images/CentralAsiaCities.png)](https://arcg.is/1O4P8P0 (Links to an external site.))
+[![Shortest Path Between Grocery Stores](images/data.PNG)](https://arcg.is/1O4P8P0 (Links to an external site.))
 
 ---
 
